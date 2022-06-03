@@ -1,0 +1,32 @@
+h1{
+    color:red;
+    background-color: black;
+    text-align:center;
+}
+
+form{
+    color: floralwhite;
+    text-align: center;
+    background-color:cornflowerblue; 
+    padding-top: 10px;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+}
+body{
+    height: auto;
+    width: 500px;
+    margin:auto;
+}
+input{
+    background-color:greenyellow;
+}
+#submit{
+    background-color:blue;
+    color: white;
+}
+p{ 
+    background-color:coral;
+    color: black;
+}
